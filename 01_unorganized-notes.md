@@ -31,3 +31,8 @@ Many organizations encourage tactical programming - getting features working as 
 - It's crucial to be consistent in applying the strategic approach and to think of investment as something to do today, not tomorrow.
 
 ## Chapter 4: The Nature of Complexity
+
+### Modules Should Be Deep
+
+- One of the most important techniques for managing software complexity is to design systems so that developers only need to face a small fraction of the overall complexity at any given time.
+- This approach is called _modular design_, and this chapter presents its basic principles.
