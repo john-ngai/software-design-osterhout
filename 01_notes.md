@@ -44,3 +44,15 @@ Many organizations encourage tactical programming - getting features working as 
 - A huge up-front investment, such as trying to design the entire system, won't be effective.
   - This is the Waterfall method.
 - The best approach is to make a lot of small investments on a continual basis. The suggested amount is 10-20% of your total development time on these investments.
+
+### 3.4 Startups and investment
+
+- Many startups take a tactical approach, spending little effort on design and even less on cleanup when problems pop up.
+  - They rationalize this with the thought that, if they are successful, they'll hav eenough money to hire extra engineers to clean things up.
+    - However, if you're a company leaning in this direction, you should realize that once a code base turns to spaghetti, it is nearly impossible to fix. You will pay for high development cost for the life of the product.
+
+### 3.5 Conclusion
+
+- It's crucial to be consistent in applying the strategic approach and to think of investment as something to do today, not tomorrow.
+
+## Chapter 4: The Nature of Complexity
