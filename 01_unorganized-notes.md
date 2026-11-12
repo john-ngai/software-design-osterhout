@@ -1,29 +1,4 @@
-# 01_notes.md
-
-## Chapter 2: The Nature of Complexity
-
-### 2.1 Complexity defined
-
-- Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system.
-- The overall complexity of a system is determined by the complexity of each part weighted by the fraction of time developers spend working on that part.
-  - Isolating the complexity in a place where it will never be seen is almost as good as eliminating the complexity entirely.
-
-### 2.2 Symptoms of complexity
-
-- Complexity manifests itself in three general ways: - Change amplification - Cognitive load - Unknown unknowns
-
-### 2.3 Causes of complexity
-
-- Complexity is caused by two things: dependencies and obscurity.
-  - Dependency is a given piece of code that cannot be understood and modified in isolation.
-    - e.g., A web page uses the same banner across multiple pages, where the background colour must be the same across all pages. As such, if the background colour is changed for one page, then it must be changed for all of them.
-- Obscurity is when important information is not obvious.
-  - e.g., A variable name that is so generic that it doesn’t carry much useful information (e.g., time). Or, the documentation for the variable doesn’t specify its unit when applicable (e.g., time in seconds or milliseconds?)
-
-### 2.4 Complexity is incremental
-
-- Complexity usually isn’t caused by a single catastrophic error; it accumulates through hundreds or thousands of small dependencies and obscurities over time.
-  - In order to slow the growth of complexity, a “zero tolerance” philosophy must be adopted (further discussed in Chapter 3).
+# Unorganized Notes
 
 ## Chapter 3: Working Code Isn’t Enough (Strategic vs. Tactical Programming)
 
